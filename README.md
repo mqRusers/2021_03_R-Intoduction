@@ -1,4 +1,4 @@
-# 2021_03_R-Intoduction
+# 2021_03_R-Introduction
 # RIntroduction
 
 Dear participants of the Intro to R workshop,
