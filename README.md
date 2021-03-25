@@ -1,6 +1,9 @@
 # 2021_03_R-Introduction
 # RIntroduction
 
+## Update: Recording Now Available
+The recording from the workshop as well as a transcript of the chat is available here: https://macquarie.zoom.us/rec/share/aQnIM3xtgPOemOnUZhACAgeEnMP8Xlsqi5OpxnEnuLgPe7YKHS8Fj0VJ7znJw0T7.z2Af0i0cB0F-TUed  
+
 Dear participants of the Intro to R workshop,
 
 Well done for finding the workshop page! Looking forward to exploring R wiht you on Thurs 25th. Please read this document to get all info concerning the workshop.
